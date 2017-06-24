@@ -1,2 +1,4 @@
 # julia_playground
-Gentle introduction to the Julia programming language
+
+Experimenting with the Julia programming language:
+- notebook 1: Julia cheatsheet
